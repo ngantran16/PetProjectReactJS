@@ -1,0 +1,30 @@
+.col-wrap {
+    display: table; 
+    width: 100%; 
+    background-color:#353535;;
+    color: white;
+}
+
+.col {
+    display: table-cell;
+    padding: 1rem;
+    width:25%;
+}
+.img-logo {
+    width:100px;
+    height:70px;
+}
+.text-justify {
+    text-align: justify;
+}
+.site-footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin-top: 200px;
+}
+.map {
+    width:350px;
+    height:200px;
+}

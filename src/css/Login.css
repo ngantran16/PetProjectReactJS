@@ -1,0 +1,53 @@
+.body-login{
+  background: url("https://cdn.hipwallpaper.com/i/37/87/68LFUs.jpg");
+  background: cover;
+  background-repeat: repeat-x;
+}
+.input-login{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+  }
+  
+  .btn-login {
+    width: 100%;
+    background-color: #FF6600;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top:20px;
+  }
+  
+  .btn-login:hover {
+    background-color: orangered;
+  }
+  
+  .form-login {
+    position: absolute;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    padding: 20px;
+    width:500px;
+    top:200px;
+    height: 400px;
+    margin-left:100px;
+  }
+  .text-title {
+    text-align: center;
+  }
+  .img-background {
+    position: relative;
+    width: 100%;
+    margin-top:73px;
+    height:700px;
+  }

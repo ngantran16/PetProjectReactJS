@@ -1,0 +1,87 @@
+.Image {
+  width: 100px;
+  position: relative;
+}
+
+.InputNumber {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+}
+
+.ButtonDelete {
+  background-color: #cc0000;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  border-radius: 5px;
+}
+
+.Payment {
+  color: white;
+  font-weight: bold;
+  width: 400px;
+}
+.Order ul li {
+  list-style-type: none;
+}
+.cart-table {
+  top: 150px;
+}
+.cart-title {
+  text-align: left;
+}
+.cart-container {
+  position: relative;
+  margin-left: 150px;
+  margin-right: 150px;
+  top: 150px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  text-align: left;
+  padding: 8px;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.cart-th {
+  background-color: #ff6600;
+  color: black;
+}
+.btn-minus {
+  width: 30px;
+  height: 30px;
+  background-color: #0099ff;
+  border: none;
+}
+.btn-plus {
+  width: 30px;
+  height: 30px;
+  background-color: #0099ff;
+  border: none;
+}
+.table-total {
+  width: 400px;
+  border: 1px solid gray;
+}
+.table-border {
+  border: 1px solid gray;
+}
+.btn-payment {
+  position: relative;
+  margin-top: 10px;
+  width: 400px;
+  height: 30px;
+  color: white;
+  font-weight: bold;
+  background-color: #ff6600;
+  border: none;
+}
